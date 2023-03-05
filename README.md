@@ -2,7 +2,7 @@
 
 chess game + chess engine
 
-inspired by [Sebastian Lague]()
+inspired by [Sebastian Lague](https://www.youtube.com/watch?v=U4ogK0MIzqk)
 
 **main game todo**
 
