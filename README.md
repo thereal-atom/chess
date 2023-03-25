@@ -1,4 +1,4 @@
-# chess
+# chess engine
 
 chess game + chess engine
 
